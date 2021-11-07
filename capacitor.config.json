@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "RegistroDocenteMI",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
