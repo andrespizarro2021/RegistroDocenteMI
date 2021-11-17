@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "registrodocentemi": {
+      "hosting": {
+        "app": [
+          "registrodocentemi"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "registrodocentemi"
+  }
+}

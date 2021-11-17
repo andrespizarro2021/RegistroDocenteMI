@@ -1,7 +1,11 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
+    <ion-buttons slot="end">
+      <ion-icon name="log-out-outline" (click)="logOut()" routerLinnk="/login"></ion-icon>
+      
+    </ion-buttons>
     <ion-title>
-      Blank
+      Estimado Docente
     </ion-title>
   </ion-toolbar>
 </ion-header>
@@ -9,7 +13,7 @@
 <ion-content [fullscreen]="true">
   <ion-header collapse="condense">
     <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
+      <ion-title size="large">Registro Docente MI</ion-title>
     </ion-toolbar>
   </ion-header>
 
